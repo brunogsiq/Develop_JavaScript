@@ -15,3 +15,5 @@
 ## Mais conteúdos poderão ser encontrados em:
 
 - Trilha p/ Q.A - Walmyr Filho - Talking About Tests: https://www.youtube.com/playlist?list=PL-eblSNRj0QH36XrwvGfhh14GjpG-ViS2
+
+Mensagem teste - Deverá ser apagada após documentação completa
